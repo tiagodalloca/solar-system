@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{7BA24DA9-440B-3346-21A5-65268176ED08}") = "SistemaSolar", "Assembly-CSharp-firstpass.csproj", "{8CC57FEE-B548-E51B-12C0-ADB0BE6030F3}"
+EndProject
+Project("{7BA24DA9-440B-3346-21A5-65268176ED08}") = "SistemaSolar", "Assembly-CSharp.csproj", "{1820B807-E8A7-7A4A-F9B0-DA2CF000B51E}"
+EndProject
+Project("{7BA24DA9-440B-3346-21A5-65268176ED08}") = "SistemaSolar", "Assembly-CSharp-Editor.csproj", "{7214EB71-DA2F-2259-6874-B1527253A725}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CC57FEE-B548-E51B-12C0-ADB0BE6030F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CC57FEE-B548-E51B-12C0-ADB0BE6030F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CC57FEE-B548-E51B-12C0-ADB0BE6030F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CC57FEE-B548-E51B-12C0-ADB0BE6030F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1820B807-E8A7-7A4A-F9B0-DA2CF000B51E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1820B807-E8A7-7A4A-F9B0-DA2CF000B51E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1820B807-E8A7-7A4A-F9B0-DA2CF000B51E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1820B807-E8A7-7A4A-F9B0-DA2CF000B51E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7214EB71-DA2F-2259-6874-B1527253A725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7214EB71-DA2F-2259-6874-B1527253A725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7214EB71-DA2F-2259-6874-B1527253A725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7214EB71-DA2F-2259-6874-B1527253A725}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
