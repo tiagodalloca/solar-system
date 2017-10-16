@@ -22,6 +22,6 @@ public class RotateAround : MonoBehaviour {
 		transform.RotateAround(target.transform.position,
                      target.transform.up,
                      speed * Time.deltaTime);
-        print(Time.deltaTime);
+//        print(Time.deltaTime);
 	}
 }
